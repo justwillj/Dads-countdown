@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Dads-countdown/static/css/main.f855e6bc.css",
-    "main.js": "/Dads-countdown/static/js/main.96bf2fae.js",
+    "main.js": "/Dads-countdown/static/js/main.149f1a56.js",
     "static/js/453.40d35839.chunk.js": "/Dads-countdown/static/js/453.40d35839.chunk.js",
     "static/media/logo.svg": "/Dads-countdown/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Dads-countdown/index.html",
     "main.f855e6bc.css.map": "/Dads-countdown/static/css/main.f855e6bc.css.map",
-    "main.96bf2fae.js.map": "/Dads-countdown/static/js/main.96bf2fae.js.map",
+    "main.149f1a56.js.map": "/Dads-countdown/static/js/main.149f1a56.js.map",
     "453.40d35839.chunk.js.map": "/Dads-countdown/static/js/453.40d35839.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.96bf2fae.js"
+    "static/js/main.149f1a56.js"
   ]
 }
